@@ -2,4 +2,6 @@
 
 Readme do repositório.
 Instruções abaixo.
-edição de inicialização realizado.
+
+Atualizando conhecimento no github
+Adicionando colaboradores.
